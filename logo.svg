@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 140 140" role="img" aria-label="Shelf Life">
+  <title>Shelf Life</title>
+  <rect width="140" height="140" rx="30" fill="#171a23"/>
+  <g transform="translate(-270 -25)">
+    <!-- shelf -->
+    <rect x="290" y="140" width="100" height="8" rx="2" fill="#ffc83d"/>
+    <!-- game case 1: play symbol -->
+    <rect x="294" y="87" width="20" height="53" rx="2" fill="#5b9dff"/>
+    <rect x="294" y="87" width="20" height="9" rx="2" fill="#e7e9ee"/>
+    <path d="M300.5 105 L308.5 110 L300.5 115 Z" fill="#0f1117" fill-opacity="0.5"/>
+    <!-- game case 2: d-pad, with the birthday candle -->
+    <rect x="318" y="77" width="24" height="63" rx="2" fill="#f2555a"/>
+    <rect x="318" y="77" width="24" height="9" rx="2" fill="#e7e9ee"/>
+    <rect x="324" y="100" width="12" height="4" rx="1" fill="#0f1117" fill-opacity="0.5"/>
+    <rect x="328" y="96" width="4" height="12" rx="1" fill="#0f1117" fill-opacity="0.5"/>
+    <!-- game case 3: face buttons -->
+    <rect x="346" y="97" width="18" height="43" rx="2" fill="#3ecf8e"/>
+    <rect x="346" y="97" width="18" height="8" rx="2" fill="#e7e9ee"/>
+    <circle cx="355" cy="107.6" r="1.9" fill="#0f1117" fill-opacity="0.5"/>
+    <circle cx="358.4" cy="111" r="1.9" fill="#0f1117" fill-opacity="0.5"/>
+    <circle cx="351.6" cy="111" r="1.9" fill="#0f1117" fill-opacity="0.5"/>
+    <circle cx="355" cy="114.4" r="1.9" fill="#0f1117" fill-opacity="0.5"/>
+    <!-- candle -->
+    <rect x="327" y="59" width="6" height="18" rx="1.5" fill="#e7e9ee"/>
+    <path d="M330 41 C337 49 336 57 330 57 C324 57 323 49 330 41 Z" fill="#ffc83d"/>
+    <!-- controller resting on the shelf -->
+    <rect x="340" y="116" width="48" height="24" rx="12" fill="#8b92a7"/>
+    <rect x="347" y="126.5" width="11" height="3.5" rx="1" fill="#171a23"/>
+    <rect x="350.75" y="122.75" width="3.5" height="11" rx="1" fill="#171a23"/>
+    <circle cx="376" cy="123" r="2.4" fill="#f2555a"/>
+    <circle cx="381" cy="128" r="2.4" fill="#3ecf8e"/>
+    <circle cx="371" cy="128" r="2.4" fill="#5b9dff"/>
+    <circle cx="376" cy="133" r="2.4" fill="#ffc83d"/>
+  </g>
+</svg>
